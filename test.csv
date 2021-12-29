@@ -1,0 +1,5 @@
+R2,192.168.1.33,username cisco privilege 15 password 0 cisco123
+R3,192.168.1.36,username tacacs privilege 15 password 0 tacacspwd
+R4,192.168.1.34,username tacacs privilege 15 password 0 tacacspwd
+R1,192.168.1.35,"
+username cisco password 0 cisco123"

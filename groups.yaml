@@ -1,0 +1,12 @@
+---
+tacacs_grp : 
+    username : "tacacs"
+    password : "tacacspwd"
+
+local_grp : 
+    username : "cisco"
+    password : "cisco123"
+    connection_options:
+        netmiko:
+            extras:
+                secret: "cisco"
