@@ -1,0 +1,3 @@
+nornir_napalm
+nornir_jinja2
+pyyaml

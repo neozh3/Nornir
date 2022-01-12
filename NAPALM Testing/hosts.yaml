@@ -1,0 +1,25 @@
+---
+R1 : 
+    hostname : 192.168.1.101
+    groups :
+        - local_grp
+R2 : 
+    hostname : 192.168.1.102
+    groups :
+        - local_grp
+R3 : 
+    hostname : 192.168.1.103
+    groups :
+        - local_grp
+R4 : 
+    hostname : 192.168.1.104
+    groups :
+        - local_grp
+R5 : 
+    hostname : 192.168.1.105
+    groups :
+        - local_grp
+R6 : 
+    hostname : 192.168.1.106
+    groups :
+        - local_grp

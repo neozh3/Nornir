@@ -1,0 +1,7 @@
+hostname,ip address,login
+R1,192.168.1.101,local_grp
+R2,192.168.1.102,local_grp
+R3,192.168.1.103,local_grp
+R4,192.168.1.104,local_grp
+R5,192.168.1.105,local_grp
+R6,192.168.1.106,local_grp
